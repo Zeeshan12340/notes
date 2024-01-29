@@ -1,0 +1,2 @@
+# TI--Template Injection
+A template engine allows developers to use static HTML pages with dynamic elements. Take for instance a static profile.html page, a template engine would allow a developer to set a username parameter, that would always be set  to the current user's username

