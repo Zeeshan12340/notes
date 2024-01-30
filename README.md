@@ -8,4 +8,4 @@ If you want to see these in full glory, you can import them into trilium notes. 
 
 ![Note Map](https://i.imgur.com/JKHbT8K.png)
 
-If you see any issues or have any feedback, feel free to open an issue or contact me on [discord](https://discordapp.com/users/realshunt)
+If you see any issues or have any feedback, feel free to open an issue or contact me on [discord](https://discordapp.com/users/zeeshan1234)
